@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Reddit posts</h2>
 
-![Reddit posts dataset header](https://github.com/luminati-io/Reddit-dataset-samples/blob/main/Reddit-datasets%20(1).png)
+![Reddit posts dataset header](https://github.com/luminati-io/Reddit-dataset-samples/blob/main/Reddit-datasets.png)
 
 A Reddit dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
